@@ -2,4 +2,4 @@ Quisque nec lectus viverra, tempus mi molestie, posuere
 mauris. Nam iaculis ac eros eget bibendum. Phasellus
 egestas fringilla libero sed viverra.
 
-CHANGED BY MAINTAINER
+CHANGED BY MAINTAINER

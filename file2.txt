@@ -7,4 +7,4 @@ mattis orci. Aliquam elementum finibus dictum.
 CHANGED BY MAINTAINER
 
 Integer ac nibh nec est porttitor semper ultrices eu
-ligula. Etiam sodales porttitor venenatis.
+ligula. Etiam sodales porttitor venenatis.
